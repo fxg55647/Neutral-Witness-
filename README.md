@@ -74,6 +74,8 @@ Confidential Evaluation and Dual-Party Inputs:
   This enables proof without disclosure and removes the need for full 
   transparency or document exchange.
 
+  The availability of an easily accessible, neutral, and auditable intermediary would alter fundamental assumptions in game-theoretic interactions, enabling classes of cooperation and market structures that are currently impractical.
+
 Trusted Execution Environment (Optional but Natural Extension):
   The Neutral Witness can operate inside a Trusted Execution Environment (TEE), 
   providing hardware-backed guarantees that:
