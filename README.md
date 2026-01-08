@@ -128,17 +128,26 @@ Key Capabilities:
 
 Example Chain:
   Claim A: "Supplier X is financially stable"
-           -> links to evidence E1, E2
+  
+           -> links to evidence 
+           E1, E2
+           
            -> evaluated by Neutral Witness at T1
 
   Claim B: "Contract with X is low-risk"
+  
            -> depends on Claim A
+           
            -> links to additional evidence E3
+           
            -> evaluated at T2
 
   Claim C: "Approve $5M purchase from X"
+  
            -> depends on Claim B
+           
            -> links to policy P1
+           
            -> evaluated at T3
 
 
