@@ -1,4 +1,4 @@
-NEUTRAL WITNESS & AI FLIGHT RECORDER
+NEUTRAL WITNESS & AI FLIGHT RECORDER:
 An Accountability Infrastructure for Claims in Agent and Human Systems
 ================
 
