@@ -172,10 +172,10 @@ Accountability Through Choice:
   flight recorder.
 
   The record captures:
-    - that witness evaluation was available but not used
-    - who made the bypass decision (agent or human)
-    - timestamp and context of the decision
-    - any stated justification
+  - that witness evaluation was available but not used
+  - who made the bypass decision (agent or human)
+  - timestamp and context of the decision
+  - any stated justification
 
   In effect: you can choose speed over verification, but you cannot 
   choose speed over accountability.
