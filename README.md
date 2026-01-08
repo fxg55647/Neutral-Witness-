@@ -77,9 +77,9 @@ Confidential Evaluation and Dual-Party Inputs:
 Trusted Execution Environment (Optional but Natural Extension):
   The Neutral Witness can operate inside a Trusted Execution Environment (TEE), 
   providing hardware-backed guarantees that:
-    - confidential inputs are not accessible to operators or other processes
-    - evaluation logic is fixed and attestable
-    - outputs are constrained and verifiable
+  - confidential inputs are not accessible to operators or other processes
+  - evaluation logic is fixed and attestable
+  - outputs are constrained and verifiable
 
   TEE execution strengthens institutional trust and enables deployment in 
   contexts requiring high assurance (finance, government, IP-sensitive 
@@ -237,3 +237,12 @@ ONE-SENTENCE SUMMARY
 --------------------
 This system does not make AI agents more reliable. It makes claims 
 admissible, auditable, and economically usable in the real world.
+
+CONTACT
+--------------------
+Author: Teemu Lantta
+
+Email: teemun.geemeili@gmail.com 
+
+X: @TeemuLantta
+
