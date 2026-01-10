@@ -242,7 +242,7 @@ Does Not:
 
 ONE-SENTENCE SUMMARY
 --------------------
-An model that mitigates AI hallucinations by subjecting every claim to independent evidence-based verification and capturing the entire reasoning chain into a tamper-evident flight recorder.
+An infrastructure that mitigates AI hallucinations by subjecting every claim to independent evidence-based verification and capturing the entire reasoning chain into a tamper-evident flight recorder.
 
 CONTACT
 --------------------
