@@ -224,6 +224,7 @@ PRACTICAL IMPACT
 
 Enables:
   - production deployment of autonomous agents in accountability-critical environments
+  - significant reduction of operationally harmful hallucinations and overclaims
   - continuous and confidential due diligence
   - faster debugging and safer iteration
   - agent-to-agent and human-agent commerce
@@ -241,7 +242,7 @@ Does Not:
 
 ONE-SENTENCE SUMMARY
 --------------------
-This system does not make AI agents inherently reliable or correct. Instead, it introduces external evaluation mechanisms—such as multi-model review and evidence comparison—that reduce unexamined errors and make claims admissible, auditable, and economically usable in the real world.
+This system does not make AI agents inherently reliable or correct. Instead, it introduces external, stateless evaluation mechanisms that significantly reduce unexamined hallucinations and overclaims, making claims admissible, auditable, and economically usable in real-world decision-making.
 
 CONTACT
 --------------------
