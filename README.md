@@ -242,7 +242,7 @@ Does Not:
 
 ONE-SENTENCE SUMMARY
 --------------------
-This system does not make AI agents inherently reliable or correct. Instead, it introduces external, stateless evaluation mechanisms that significantly reduce unexamined hallucinations and overclaims, making claims admissible, auditable, and economically usable in real-world decision-making.
+An model that mitigates AI hallucinations by subjecting every claim to independent evidence-based verification and capturing the entire reasoning chain into a tamper-evident flight recorder.
 
 CONTACT
 --------------------
