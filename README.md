@@ -55,6 +55,10 @@ Role:
   - Converts uncertainty into an explicit signal
   - Enables trust in process rather than in agents or parties
 
+Evaluation Model: Triple Stateless Claim Evaluation
+The Neutral Witness evaluates claim admissibility using a triple-stage, stateless evaluation model. The same bounded inputs (claim, evidence boundary, constraints) are assessed from an affirmative frame (does the claim hold?), a negating frame (where does it exceed evidence?), and a final consistency comparison that measures epistemic stability rather than correctness.
+Each stage is memoryless and isolated, preventing narrative coherence bias and silent assumption propagation. Disagreement between stages is treated as a first-class signal of epistemic weakness and is recorded as part of the accountability trail.
+
 Confidential Evaluation and Dual-Party Inputs:
   A key capability of the Neutral Witness is the ability to evaluate claims 
   using multiple sets of confidential inputs simultaneously, supplied by 
@@ -205,9 +209,9 @@ WHAT IS NEW
 -----------
 This work introduces, in combination:
   - Claims as first-class accountability objects
-  - Admissibility instead of correctness
+  - Admissibility instead of pursuing perfect correctness
   - Confidential multi-party evaluation
-  - External, multi-model reality checking
+  - External, multi-model reality checking with triple stateless claim evaluation 
   - Epistemic flight recording with claim linking
   - Auditable reasoning chains across agents and time
   - Optional hardware-backed trust (TEE)
@@ -237,7 +241,7 @@ Does Not:
 
 ONE-SENTENCE SUMMARY
 --------------------
-This system does not make AI agents inherently more reliable or correct. Instead, it introduces external evaluation mechanisms—such as multi-model review and evidence comparison—that reduce unexamined errors and make claims admissible, auditable, and economically usable in the real world.
+This system does not make AI agents inherently reliable or correct. Instead, it introduces external evaluation mechanisms—such as multi-model review and evidence comparison—that reduce unexamined errors and make claims admissible, auditable, and economically usable in the real world.
 
 CONTACT
 --------------------
