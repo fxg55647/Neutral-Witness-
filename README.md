@@ -54,7 +54,7 @@ Role:
   - Prevents overclaiming
   - Converts uncertainty into an explicit signal
   - Enables trust in process rather than in agents or parties
-  - Helps disrupt the underlying mechanism that produces hallucinations
+  - Helps disrupt the mechanisms that drive hallucinations, such as excessive agreeableness and forced narrative coherence
 
 Evaluation Model: Triple Stateless Claim Evaluation
 The Neutral Witness evaluates claim admissibility using a triple-stage, stateless evaluation model. The same bounded inputs (claim, evidence boundary, constraints) are assessed from an affirmative frame (does the claim hold?), a negating frame (where does it exceed evidence?), and a final consistency comparison that measures epistemic stability rather than correctness.
